@@ -1,14 +1,16 @@
 # Truth Discovery Promotes Uncertainty Calibration of DNNs
 
+<br />
+
 <div align="center">
-  <span style="font-family:Papyrus; font-weight:bold; font-size:8em;">Improving Uncertainty Calibration of Deep Neural Networks via Truth Discovery and Geometric Optimization</span>
+  Improving Uncertainty Calibration of Deep Neural Networks via Truth Discovery and Geometric Optimization
 </div>
 
-**
+<br />
+
 <div align="center">
   37th Conference on Uncertainty in Artificial Intelligence (UAI 2021)
 </div>
-**
 
 <br />
 <br />
