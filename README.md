@@ -31,6 +31,14 @@ If you find the software useful please cite:
 ```
 
 <!---
+Acknowledgments
+In this project we use (parts of) the official implementations of the followin works:
+
+XX (XX)
+XX (XX)
+XX
+We thank the respective authors for open-sourcing their methods.
+
 If you have any problem please [contact me](mailto:chunweim@buffalo.edu).
 -->
 
