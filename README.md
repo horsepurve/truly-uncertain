@@ -13,7 +13,7 @@ If you find the software is useful please cite:
 
 ```
 @inproceedings{ma2020truth,
-  title={Causal inference under interference and network uncertainty},
+  title={Improving Uncertainty Calibration of Deep Neural Networks via Truth Discovery and Geometric Optimization},
   author={Ma, Chunwei and Huang, Ziyun and Xian, Jiayi and Gao, Mingchen and Xu, Jinhui},
   booktitle={Uncertainty in Artificial Intelligence (UAI)},
   pages={xxxx--xxxx},
