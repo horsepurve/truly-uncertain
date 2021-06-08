@@ -1,7 +1,7 @@
 # Truth Discovery Promotes Uncertainty Calibration of DNNs
 
 <div align="center">
-  <span style="font-family:Papyrus; font-weight:bold; font-size:8em;">Improving Uncertainty Calibration of Deep Neural Networks via Truth Discovery and Geometric Optimization</span>
+  <span style="font-family:Papyrus; font-weight:bold; font-size:8em;">**Improving Uncertainty Calibration of Deep Neural Networks via Truth Discovery and Geometric Optimization**</span>
 </div>
 
 <div align="center">
