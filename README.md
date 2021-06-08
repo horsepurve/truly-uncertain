@@ -4,9 +4,11 @@
   <span style="font-family:Papyrus; font-weight:bold; font-size:8em;">Improving Uncertainty Calibration of Deep Neural Networks via Truth Discovery and Geometric Optimization</span>
 </div>
 
+**
 <div align="center">
-  37th **Conference** on Uncertainty in Artificial Intelligence (UAI 2021)
+  37th Conference on Uncertainty in Artificial Intelligence (UAI 2021)
 </div>
+**
 
 <br />
 <br />
