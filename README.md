@@ -8,9 +8,9 @@
   37th Conference on Uncertainty in Artificial Intelligence (UAI 2021)
 </div>
 
-  
-  
-  
+<br />
+<br />
+
 If you find the software is useful please cite:
 
 ```
