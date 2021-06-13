@@ -17,7 +17,7 @@
 <br />
 <br />
 
-If you find the software useful please cite:
+If you find the software useful please consider citing:
 
 ```
 @inproceedings{ma2020truth,
