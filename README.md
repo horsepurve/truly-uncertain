@@ -15,7 +15,7 @@
 </div>
 
 <div align="center">
-  [arXiv](https://arxiv.org/abs/2106.14662)
+  <a href="https://arxiv.org/abs/2106.14662">arXiv</a>
 </div>
 
 <br />
