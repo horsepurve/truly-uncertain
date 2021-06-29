@@ -14,6 +14,10 @@
   37th Conference on Uncertainty in Artificial Intelligence (UAI 2021)
 </div>
 
+<div align="center">
+  [arXiv](https://arxiv.org/abs/2106.14662)
+</div>
+
 <br />
 <br />
 
