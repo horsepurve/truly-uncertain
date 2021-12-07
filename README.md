@@ -28,7 +28,7 @@ If you find the software useful please consider citing:
   title={Improving Uncertainty Calibration of Deep Neural Networks via Truth Discovery and Geometric Optimization},
   author={Ma, Chunwei and Huang, Ziyun and Xian, Jiayi and Gao, Mingchen and Xu, Jinhui},
   booktitle={Uncertainty in Artificial Intelligence (UAI)},
-  pages={xxxx--xxxx},
+  pages={75-85},
   year={2021},
   organization={PMLR}
 }
