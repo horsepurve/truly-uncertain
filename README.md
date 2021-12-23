@@ -18,6 +18,10 @@
   <a href="https://arxiv.org/abs/2106.14662">arXiv</a>
 </div>
 
+<div align="center">
+  <a href="https://proceedings.mlr.press/v161/ma21a.html">PMLR</a>
+</div>
+
 <br />
 <br />
 
