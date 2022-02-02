@@ -23,7 +23,7 @@
 </div>
 
 <p align="center">
-  <img src="./img/illus.png" width="255">
+  <img src="./img/illus.png" width="350">
 </p>
 
 <br />
