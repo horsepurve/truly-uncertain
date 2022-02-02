@@ -22,7 +22,9 @@
   <a href="https://proceedings.mlr.press/v161/ma21a.html">PMLR</a>
 </div>
 
-<img src="./img/illus.png" width="348">
+<p align="center">
+  <img src="./img/illus.png" width="255">
+</p>
 
 <br />
 <br />
