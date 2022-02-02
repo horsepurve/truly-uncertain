@@ -22,6 +22,8 @@
   <a href="https://proceedings.mlr.press/v161/ma21a.html">PMLR</a>
 </div>
 
+<img src="./img/illus.png">
+
 <br />
 <br />
 
