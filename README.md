@@ -26,6 +26,10 @@
   <img src="./img/illus.png" width="350">
 </p>
 
+<p align="center">
+  <img src="./img/truth.png">
+</p>
+
 <br />
 <br />
 
