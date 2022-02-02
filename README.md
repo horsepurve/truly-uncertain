@@ -1,4 +1,4 @@
-# Truth Discovery Promotes Uncertainty Calibration
+# Truth Discovery Promotes DNN Uncertainty Calibration
 <!---
 -->
 
