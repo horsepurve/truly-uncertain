@@ -22,6 +22,9 @@
   <a href="https://proceedings.mlr.press/v161/ma21a.html">PMLR</a>
 </div>
 
+<br />
+<br />
+
 <p align="center">
   <img src="./img/illus.png" width="350">
 </p>
@@ -29,9 +32,6 @@
 <p align="center">
   <img src="./img/truth.png">
 </p>
-
-<br />
-<br />
 
 If you find the software useful please consider citing:
 
