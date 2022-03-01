@@ -25,13 +25,31 @@
 <br />
 <br />
 
+Based on Deep Ensemble, we use truth discovery within the probability simplex to find the truth vector which is better than the naive mean Ensemble, w.r.t uncertainty. Further, we use geometric optimization to ensure the accuracy is preserved, provably, as shown as follows:
+
 <p align="center">
   <img src="./img/illus.png" width="350">
 </p>
 
+#### Prerequisites
+
+See requirements.txt for installation. Then download our logits from [Google Drive](https://drive.google.com/drive/folders/1SLErVXqm2jxRBhQGZkoy7EPgM-_1e7kR?usp=sharing) and store them in "./pitfalldee/megacache". Note that due to the limited space in my cloud storage, only a small portion of logits are shared; however, you are free to use your own logits, and see [pytorch-ensembles](https://github.com/SamsungLabs/pytorch-ensembles) for the complete list of models/datasets used in our paper.
+
+Run jupyter notebook "UN_all_cifar.ipynb" to reproduce the following results:
+
 <p align="center">
   <img src="./img/truth.png">
 </p>
+
+and
+
+<p align="center">
+  <img src="./img/table_1.png">
+</p>
+
+Modify "logits_file" to switch between different datasets/models.
+
+#### References
 
 If you find the software useful please consider citing:
 
@@ -47,14 +65,15 @@ If you find the software useful please consider citing:
 ```
 
 <!---
-Acknowledgments
-In this project we use (parts of) the official implementations of the followin works:
-
-XX (XX)
-XX (XX)
-XX
-We thank the respective authors for open-sourcing their methods.
-
-If you have any problem please [contact me](mailto:chunweim@buffalo.edu).
 -->
 
+**Acknowledgments**
+In this project we use (parts of) the official implementations of the following works:
+
+[spline-calibration](https://github.com/kartikgupta-at-anu/spline-calibration)
+[pytorch-ensembles](https://github.com/SamsungLabs/pytorch-ensembles)
+[Mix-n-Match-Calibration](https://github.com/zhang64-llnl/Mix-n-Match-Calibration)
+
+We thank the respective authors for open-sourcing their methods, which makes this work possible.
+
+If you have any problem please [contact me](mailto:chunweim@buffalo.edu).
