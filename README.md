@@ -25,13 +25,15 @@
 <br />
 <br />
 
+## Introduction
+
 Based on Deep Ensemble, we use *truth discovery* within the probability simplex to find the truth vector, which is better than the naive mean Ensemble, w.r.t uncertainty. Further, we use geometric optimization to ensure the accuracy is preserved provably, as shown as follows:
 
 <p align="center">
   <img src="./img/illus.png" width="350">
 </p>
 
-#### Prerequisites
+## Prerequisites
 
 See requirements.txt for installation. Then download our logits from [Google Drive](https://drive.google.com/drive/folders/1SLErVXqm2jxRBhQGZkoy7EPgM-_1e7kR?usp=sharing) and store them in "./pitfalldee/megacache". Note that due to the limited space in my cloud storage, only a small portion of logits are shared; however, you are free to use your own logits, and see [pytorch-ensembles](https://github.com/SamsungLabs/pytorch-ensembles) for the complete list of models/datasets used in our paper.
 
@@ -49,7 +51,7 @@ and
 
 Modify "logits_file" to switch between different datasets/models.
 
-#### References
+## References
 
 If you find the software useful please consider citing:
 
