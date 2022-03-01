@@ -70,9 +70,9 @@ If you find the software useful please consider citing:
 **Acknowledgments**
 In this project we use (parts of) the official implementations of the following works:
 
-[spline-calibration](https://github.com/kartikgupta-at-anu/spline-calibration)
-[pytorch-ensembles](https://github.com/SamsungLabs/pytorch-ensembles)
-[Mix-n-Match-Calibration](https://github.com/zhang64-llnl/Mix-n-Match-Calibration)
+* [spline-calibration](https://github.com/kartikgupta-at-anu/spline-calibration)
+* [pytorch-ensembles](https://github.com/SamsungLabs/pytorch-ensembles)
+* [Mix-n-Match-Calibration](https://github.com/zhang64-llnl/Mix-n-Match-Calibration)
 
 We thank the respective authors for open-sourcing their methods, which makes this work possible.
 
