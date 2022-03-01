@@ -68,6 +68,7 @@ If you find the software useful please consider citing:
 -->
 
 **Acknowledgments**
+
 In this project we use (parts of) the official implementations of the following works:
 
 * [spline-calibration](https://github.com/kartikgupta-at-anu/spline-calibration)
