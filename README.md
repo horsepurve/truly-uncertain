@@ -25,7 +25,7 @@
 <br />
 <br />
 
-Based on Deep Ensemble, we use truth discovery within the probability simplex to find the truth vector which is better than the naive mean Ensemble, w.r.t uncertainty. Further, we use geometric optimization to ensure the accuracy is preserved, provably, as shown as follows:
+Based on Deep Ensemble, we use *truth discovery* within the probability simplex to find the truth vector, which is better than the naive mean Ensemble, w.r.t uncertainty. Further, we use geometric optimization to ensure the accuracy is preserved provably, as shown as follows:
 
 <p align="center">
   <img src="./img/illus.png" width="350">
