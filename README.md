@@ -37,6 +37,8 @@ Based on Deep Ensemble, we use *truth discovery* within the probability simplex 
 
 See requirements.txt for installation. Then download our logits from [Google Drive](https://drive.google.com/drive/folders/1SLErVXqm2jxRBhQGZkoy7EPgM-_1e7kR?usp=sharing) and store them in "./pitfalldee/megacache". Note that due to the limited space in my cloud storage, only a small portion of logits are shared; however, you are free to use your own logits, and see [pytorch-ensembles](https://github.com/SamsungLabs/pytorch-ensembles) for the complete list of models/datasets used in our paper.
 
+## Reproducing the results
+
 Run jupyter notebook "UN_all_cifar.ipynb" to reproduce the following results:
 
 <p align="center">
